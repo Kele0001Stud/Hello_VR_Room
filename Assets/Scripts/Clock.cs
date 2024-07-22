@@ -27,7 +27,7 @@ public class Clock : MonoBehaviour
 
         int minuteInt = int.Parse(System.DateTime.Now.ToString("mm"));
         int hourInt = int.Parse(System.DateTime.Now.ToString("hh"));
-        Debug.Log(hourInt + ":" + minuteInt + ":" + seconds);
+        //Debug.Log(hourInt + ":" + minuteInt + ":" + seconds);
 
         targetRotation_second = 360f / 60f * seconds;
         targetRotation_minute = 360f / 60f * minuteInt;
