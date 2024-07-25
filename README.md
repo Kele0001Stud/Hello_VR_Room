@@ -9,12 +9,12 @@ The HelloVRRoom Scene can be controlled by the primary button to toggle the rayc
 With the secondary button, the scene can be reseted.
 With the ESC on the keyboard, the application can be quit.
 
-Locomotion
-Grab interaction with the game objects
-Watch the real-time clock
-Play Video on the TV screen
-Hear 3D audio and sounds
-Camera effects as a mirror and magnification
-Canvas UI as little tutorial
-Reset Scene
+- Locomotion
+- Grab interaction with the game objects
+- Watch the real-time clock
+- Play Video on the TV screen
+- Hear 3D audio and sounds
+- Camera effects as a mirror and magnification
+- Canvas UI as little tutorial
+- Reset Scene
 
